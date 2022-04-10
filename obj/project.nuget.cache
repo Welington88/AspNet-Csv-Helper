@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qWg1Nx1ozSCuyxAGN2/lPIXHSDrRWS3RriLCF/HKm28iCxb8u1/YqQjkOjKbvkWWE5en1KHTQvKZMMokdlIVlQ==",
+  "dgSpecHash": "SQ/Y7ytwhCLxGuLVFvYL5lyrK1n9y5jFyF6WiwIhdYNlO6fSuG001SlIny6SQIq5XQ94M1kk65z9ycUiB65fGQ==",
   "success": true,
   "projectFilePath": "/Users/welingtonmarquezini/Projects/projetoCsvHelper/projetoCsvHelper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/welingtonmarquezini/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
