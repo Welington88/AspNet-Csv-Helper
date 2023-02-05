@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SQ/Y7ytwhCLxGuLVFvYL5lyrK1n9y5jFyF6WiwIhdYNlO6fSuG001SlIny6SQIq5XQ94M1kk65z9ycUiB65fGQ==",
+  "dgSpecHash": "8p9qxLtpGJ+bunSyFQj70ertCuHsc6b8yNPDHdG8PEvMCtIoc3+teB9ePlAkJ0/xqlf4EWbOrCMm6cn+CV7GOA==",
   "success": true,
   "projectFilePath": "/Users/welingtonmarquezini/Projects/projetoCsvHelper/projetoCsvHelper.csproj",
   "expectedPackageFiles": [
-    "/Users/welingtonmarquezini/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+    "/Users/welingtonmarquezini/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
